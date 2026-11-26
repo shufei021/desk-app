@@ -1,0 +1,18 @@
+{
+  "extends": "../../../tsconfig.base.json",
+  "compilerOptions": { "rootDir": "src", "outDir": "lib/types", "tsBuildInfoFile": "lib/tsconfig.host.tsbuildinfo" },
+  "files": ["src/index.ts", "src/tool.ts", "src/chat.ts"],
+  "references": [
+    { "path": "../../../vendor/cordis" },
+    { "path": "../../../vendor/schemastery" },
+    { "path": "../../core/agent" },
+    { "path": "../../core/session" },
+    { "path": "../../core/tools" },
+    { "path": "../../attachment/attachment" },
+    { "path": "../../util/brand" },
+    { "path": "../../util/error" },
+    { "path": "../../llm/llm" },
+    { "path": "../../settings/settings" },
+    { "path": "../direct-ai" }
+  ]
+}

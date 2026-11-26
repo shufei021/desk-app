@@ -1,0 +1,46 @@
+# Bilingual-pair consistency record for README.md (docs/i18n/README.md): per heading
+# section, a hash of its English and Chinese blocks outside code blocks and generated regions.
+# After editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write packages/client/ui-direct-ai/README.md
+/:
+  en: d30a684cb51d8f63
+  zh: 59c054b94618e7b7
+/deepseek-ai-dsh-client-ui-direct-ai:
+  en: 013384de96800714
+  zh: bd1331915560818e
+/deepseek-ai-dsh-client-ui-direct-ai/summary:
+  en: fdc8796e98bb2864
+  zh: e7916ecdf15a21ac
+/deepseek-ai-dsh-client-ui-direct-ai/table-of-contents:
+  en: d152484eb41ac6b4
+  zh: 09388d293f9be9cb
+/deepseek-ai-dsh-client-ui-direct-ai/use-this-package:
+  en: 004aff6e0c29ade0
+  zh: 8233dc55eed0452d
+/deepseek-ai-dsh-client-ui-direct-ai/understand-the-implementation:
+  en: 374ace0e0da64059
+  zh: a6d89bd61a6770e8
+/deepseek-ai-dsh-client-ui-direct-ai/further-exploration:
+  en: 16d342b4aec90cdb
+  zh: 95484d110832175b
+/deepseek-ai-dsh-client-ui-direct-ai/model-experience:
+  en: 215e7ba838619b7b
+  zh: a311da3843709f90
+/deepseek-ai-dsh-client-ui-direct-ai/model-experience/explicit-direct-request:
+  en: e9f7ccb9e981eeb2
+  zh: e105b1d4aabaedfa
+/deepseek-ai-dsh-client-ui-direct-ai/model-experience/explicit-direct-request/what-the-model-sees:
+  en: 08106c739f34dcae
+  zh: c37b378114fb4835
+/deepseek-ai-dsh-client-ui-direct-ai/model-experience/explicit-direct-request/token-effect:
+  en: 8ae914c20508a3ad
+  zh: 41376a03a29a49a4
+/deepseek-ai-dsh-client-ui-direct-ai/model-experience/explicit-direct-request/kv-cache-effect:
+  en: b2bd40f0a17f39d6
+  zh: 68137765b3acb36a
+/deepseek-ai-dsh-client-ui-direct-ai/known-limitations-and-deferred-work:
+  en: 516e53d1c7d8f845
+  zh: 53d63ebe4cd0e4fd
+/deepseek-ai-dsh-client-ui-direct-ai/known-limitations-and-deferred-work/dev-note:
+  en: 0a1253c6f7b5e8b9
+  zh: 9f56528562c7c914

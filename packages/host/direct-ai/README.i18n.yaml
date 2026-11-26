@@ -1,0 +1,64 @@
+# Bilingual-pair consistency record for README.md (docs/i18n/README.md): per heading
+# section, a hash of its English and Chinese blocks outside code blocks and generated regions.
+# After editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write packages/host/direct-ai/README.md
+/:
+  en: f8629c92cc5497f3
+  zh: 26e4b1b17f1a413c
+/deepseek-ai-dsh-direct-ai:
+  en: 22cecefba5c6be1f
+  zh: c476af1df0f88e02
+/deepseek-ai-dsh-direct-ai/summary:
+  en: 952f8a1290bed501
+  zh: 04b7641fd6287b53
+/deepseek-ai-dsh-direct-ai/table-of-contents:
+  en: d152484eb41ac6b4
+  zh: 5b6bd00fce5371c3
+/deepseek-ai-dsh-direct-ai/use-this-package:
+  en: f7a506cb9ec5c354
+  zh: accbf07fea2f8dcb
+/deepseek-ai-dsh-direct-ai/use-this-package/provider-protocols:
+  en: 4a5873ec987f45f8
+  zh: 6b6c19ec0064bbed
+/deepseek-ai-dsh-direct-ai/use-this-package/trusted-image-generation:
+  en: 34811ae95bdc5174
+  zh: 890386f7b35d1d20
+/deepseek-ai-dsh-direct-ai/use-this-package/reference-image-edits:
+  en: a4a71605de634ece
+  zh: de7e14462cd4228f
+/deepseek-ai-dsh-direct-ai/use-this-package/model-directories:
+  en: 551c56a10b846fa4
+  zh: 65c74f6b2b3a0d28
+/deepseek-ai-dsh-direct-ai/use-this-package/limits-and-recovery:
+  en: e9162adb11c5d6f5
+  zh: 7177e1159dfefe1e
+/deepseek-ai-dsh-direct-ai/use-this-package/credentials-and-media:
+  en: 2b6bfe1dfdc3d334
+  zh: eaaa9f49c971b996
+/deepseek-ai-dsh-direct-ai/understand-the-implementation:
+  en: 4dc7c59a53bf4fb5
+  zh: 7f0d576bf697a517
+/deepseek-ai-dsh-direct-ai/further-exploration:
+  en: 912682b423035cea
+  zh: a5a988406ab5ea28
+/deepseek-ai-dsh-direct-ai/model-experience:
+  en: 215e7ba838619b7b
+  zh: a311da3843709f90
+/deepseek-ai-dsh-direct-ai/model-experience/direct-provider-request:
+  en: a261bf19cf7d0a97
+  zh: 6fb5a88d46a23aa0
+/deepseek-ai-dsh-direct-ai/model-experience/direct-provider-request/what-the-model-sees:
+  en: 2c76f4f6bd476ae1
+  zh: 473f01c8c767b750
+/deepseek-ai-dsh-direct-ai/model-experience/direct-provider-request/token-effect:
+  en: 3c4762ad03bf7226
+  zh: c8df1120ccab5856
+/deepseek-ai-dsh-direct-ai/model-experience/direct-provider-request/kv-cache-effect:
+  en: 30753b097622c045
+  zh: 41daed1439aef2c1
+/deepseek-ai-dsh-direct-ai/known-limitations-and-deferred-work:
+  en: 063472118f560e50
+  zh: 9a38503a148a2d00
+/deepseek-ai-dsh-direct-ai/known-limitations-and-deferred-work/dev-note:
+  en: e67f633dc6fe7773
+  zh: 8ec3e73528ddb1a6

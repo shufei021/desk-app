@@ -1,0 +1,18 @@
+/* Image configuration uses the Models section's settings-card material and shared controls. */
+.section { display: flex; flex-direction: column; gap: 12px; min-width: 0; margin-top: 24px; padding: 20px; border-radius: var(--dsw-radius-xl); background: var(--dsw-alias-settings-card-fill); color: var(--dsw-alias-label-primary); font-size: 13px; line-height: 20px; }
+.header { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+.title { margin: 0; font-size: 16px; line-height: 24px; font-weight: 500; }
+.subtitle { margin: 0; font-size: 14px; line-height: 22px; font-weight: 500; }
+.hint { margin: 0; color: var(--dsw-alias-label-tertiary); overflow-wrap: anywhere; }
+.error { margin: 0; color: var(--dsw-alias-state-error-primary); overflow-wrap: anywhere; white-space: pre-wrap; }
+.field, .form { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.form { gap: 12px; margin-top: 8px; }
+.grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+.selector { justify-content: flex-start; height: auto; min-height: 36px; text-align: start; white-space: normal; overflow-wrap: anywhere; }
+.preset, .submit { align-self: flex-start; max-width: 100%; white-space: normal; height: auto; min-height: 32px; }
+.menu { max-width: min(480px, calc(100vw - 48px)); }
+.skeleton { min-height: 48px; border-radius: var(--dsw-radius-lg); background: var(--dsw-alias-bg-skeleton); }
+.result { display: flex; flex-direction: column; align-items: flex-start; gap: 8px; min-width: 0; margin-block: 12px; }
+.resultTitle { font-weight: 500; margin: 0; }
+.resultText { margin: 0; color: var(--dsw-alias-label-secondary); white-space: pre-wrap; overflow-wrap: anywhere; }
+@media (max-width: 560px) { .section { padding: 16px; } .grid { grid-template-columns: minmax(0, 1fr); } }

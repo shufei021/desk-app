@@ -1,0 +1,46 @@
+# Bilingual-pair consistency record for README.md (docs/i18n/README.md): per heading
+# section, a hash of its English and Chinese blocks outside code blocks and generated regions.
+# After editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write packages/client/ui-image-studio/README.md
+/:
+  en: 270333716c0c252a
+  zh: 84449f6b625c7932
+/deepseek-ai-dsh-client-ui-image-studio:
+  en: 24ffdd70d41f65ac
+  zh: 4d68cad9536bc3aa
+/deepseek-ai-dsh-client-ui-image-studio/summary:
+  en: c20866a03ee3fd3f
+  zh: 89adc9779c094208
+/deepseek-ai-dsh-client-ui-image-studio/table-of-contents:
+  en: d152484eb41ac6b4
+  zh: 09388d293f9be9cb
+/deepseek-ai-dsh-client-ui-image-studio/use-this-package:
+  en: 04abe04fe2693ad2
+  zh: 8e514de3f0042017
+/deepseek-ai-dsh-client-ui-image-studio/understand-the-implementation:
+  en: 93c1b39c6504a16a
+  zh: 6786351f9f8d1851
+/deepseek-ai-dsh-client-ui-image-studio/further-exploration:
+  en: e3dbb8cb5595fbbc
+  zh: 7d2f60127da03d11
+/deepseek-ai-dsh-client-ui-image-studio/model-experience:
+  en: 215e7ba838619b7b
+  zh: a311da3843709f90
+/deepseek-ai-dsh-client-ui-image-studio/model-experience/direct-image-request:
+  en: eb25df04e4c758a6
+  zh: bf3a06d37711fbae
+/deepseek-ai-dsh-client-ui-image-studio/model-experience/direct-image-request/what-the-model-sees:
+  en: ef1ea03afd3e68cd
+  zh: 5b9dc476bee3a0be
+/deepseek-ai-dsh-client-ui-image-studio/model-experience/direct-image-request/token-effect:
+  en: 1349b4f57c412569
+  zh: ca8fd4db244efc42
+/deepseek-ai-dsh-client-ui-image-studio/model-experience/direct-image-request/kv-cache-effect:
+  en: 9e37cc46ab9fcebe
+  zh: eb876d33c4ccc5f7
+/deepseek-ai-dsh-client-ui-image-studio/known-limitations-and-deferred-work:
+  en: d452c4780d077044
+  zh: 4469707d0170564d
+/deepseek-ai-dsh-client-ui-image-studio/known-limitations-and-deferred-work/dev-note:
+  en: 0a1253c6f7b5e8b9
+  zh: 9f56528562c7c914

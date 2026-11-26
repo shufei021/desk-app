@@ -1,0 +1,12 @@
+- banner:
+  - heading "Direct AI" [level=1]
+  - paragraph: Call your configured API without an agent role, tools, or workspace instructions
+  - button "Back to Agent"
+- region "API services":
+  - heading "API services" [level=2]
+  - button "Add service"
+  - paragraph: Add an API service to begin
+  - paragraph: Choose a capability and enter its API address, model, and key. Its feature appears after saving.
+- region "Configured capabilities":
+  - paragraph: No service configured for this capability
+- group: Request history

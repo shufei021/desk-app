@@ -1,0 +1,13 @@
+# Bilingual-pair consistency record for direct-ai.md (docs/i18n/README.md): per heading
+# section, a hash of its English and Chinese blocks outside code blocks and generated regions.
+# After editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write docs/subsystems/direct-ai.md
+/direct-ai:
+  en: 6ac2d75891a90ce4
+  zh: e73ea08631fe8568
+/direct-ai/summary:
+  en: 6a0e60a4b8765f97
+  zh: ccf0edb2265f839f
+/direct-ai/types:
+  en: 7388e4eaf217eb36
+  zh: d68c68b507631ef4

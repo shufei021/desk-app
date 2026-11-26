@@ -1,0 +1,43 @@
+# Bilingual-pair consistency record for README.md (docs/i18n/README.md): per heading
+# section, a hash of its English and Chinese blocks outside code blocks and generated regions.
+# After editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write packages/host/tool-image-generation/README.md
+/:
+  en: c29870e84e855a3c
+  zh: 79af648843e359b9
+/deepseek-ai-dsh-tool-image-generation:
+  en: 0f6afd643d4351da
+  zh: aca9d7ba2cf230e4
+/deepseek-ai-dsh-tool-image-generation/summary:
+  en: b846741451bc73ae
+  zh: 748c6bafbcd325e9
+/deepseek-ai-dsh-tool-image-generation/table-of-contents:
+  en: 122f0d41696980b1
+  zh: 528864635b577290
+/deepseek-ai-dsh-tool-image-generation/use-this-package:
+  en: da8ac69de964cfae
+  zh: 3e26405d58d422ec
+/deepseek-ai-dsh-tool-image-generation/understand-the-implementation:
+  en: a4e99326909f86e5
+  zh: e34056f4166ff158
+/deepseek-ai-dsh-tool-image-generation/model-experience:
+  en: 215e7ba838619b7b
+  zh: a311da3843709f90
+/deepseek-ai-dsh-tool-image-generation/model-experience/image-generation:
+  en: f828453c64df233b
+  zh: cf30f1b710021c1b
+/deepseek-ai-dsh-tool-image-generation/model-experience/image-generation/what-the-model-sees:
+  en: 2d071d19c4862652
+  zh: 209839b507a7da66
+/deepseek-ai-dsh-tool-image-generation/model-experience/image-generation/token-effect:
+  en: c6319b08f6ffc602
+  zh: 21d96a900a6ee7c7
+/deepseek-ai-dsh-tool-image-generation/model-experience/image-generation/kv-cache-effect:
+  en: 9aa46af79fe57c64
+  zh: 1bb02c7137730302
+/deepseek-ai-dsh-tool-image-generation/known-limitations-and-deferred-work:
+  en: 853758191771c506
+  zh: fec4dffc7783e0b3
+/deepseek-ai-dsh-tool-image-generation/known-limitations-and-deferred-work/dev-note:
+  en: 0a1253c6f7b5e8b9
+  zh: 9f56528562c7c914
